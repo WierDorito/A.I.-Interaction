@@ -1,0 +1,7 @@
+print('Hello, i dont know you, my name is A.I. whats your name?')
+name = input('Whats your name? ')
+print('Wow, what a great name', name, '!')
+print('But, how old are you?')
+year = input('How old are you? ')
+print('Wow i am', year, 'year(s) old too!')
+print('Nice to meet you, bye!')
